@@ -36,11 +36,10 @@ A responsive website for an authentic Irish pub featuring food menu, events cale
 ### Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/yourusername/emerald-isle-pub.git
    ```
-
-````
 
 2. Open the project in VS Code
 3. Install recommended extensions:
@@ -81,8 +80,3 @@ This project is open source and available under the [MIT License](LICENSE).
 For questions or support, please contact info@emeraldisle.com
 
 Sláinte! 🍻
-
-```
-
-```
-````
