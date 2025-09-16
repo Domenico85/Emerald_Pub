@@ -1,4 +1,3 @@
-````markdown
 # The Emerald Isle - Irish Pub Website
 
 ![The Emerald Isle Pub](http://static.photos/restaurant/1200x630/42)
@@ -40,6 +39,7 @@ A responsive website for an authentic Irish pub featuring food menu, events cale
    ```bash
    git clone https://github.com/yourusername/emerald-isle-pub.git
    ```
+
 ````
 
 2. Open the project in VS Code
@@ -85,3 +85,4 @@ Sláinte! 🍻
 ```
 
 ```
+````
